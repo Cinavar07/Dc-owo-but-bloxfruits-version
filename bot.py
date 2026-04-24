@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord import app_commands
 import os
 
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "MTQ5Njk5MTk4MDg2ODA3NTUzMA. GiVxU8.1d84uFR6VgIDsDGgmWVPEHaT9n ysXXS_I_cmXg"
 
 intents = discord.Intents.default()
 intents.message_content = True
